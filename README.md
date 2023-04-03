@@ -4,6 +4,11 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/huadevin)
 
 *I am a Software Developer 💻 who loves working with Big Data 📊. In my free time, I love exploring sports datasets 🏀, comparing NBA players to each other, and building predictive models💡*
+### Tech Stack:
+- Programming Languages 🤖: Python, SQL, Java
+- Databases 🌐: Microsoft SQL Server, PostgreSQL, MySQL
+- Cloud ☁️: Salesforce, AWS, dbt, Qualtrics 
+### About Me:
 - 🧑‍💼 I’m currently working as a Software Developer at YouthTruth
 - 🤝 I also get the opportunity to mentor high school and college students around the Bay Area. Check out what we’re up to as we try to raise up the next generation of youth! 👉 Area Youth Ministry 📌: https://areayouth.org
 - 💬 Feel free to ask me any questions and connect with me below!
