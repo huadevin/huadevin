@@ -19,6 +19,6 @@
   1. I played for the Cal Men's Golf Team 🏌️‍♂️ Go Bears! 🐻
   2. I love eating fried chicken wings 🍗 (I ate 50 in one sitting 👀)
 ### Github Stats
-[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huadevin&count_private=true&hide=contribs,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huadevin&count_private=true&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.istockphoto.com/id/1218481548/vector/cute-cat-waving-paw-cartoon-vector-illustration.jpg?s=612x612&w=0&k=20&c=RciKkd8LHlvJZHqCGR6kz4YUIaEAScuSTkO7tpbvMhE=" width="100" height="100">
